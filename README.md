@@ -1,3 +1,3 @@
 # Gradient-Text
-Resultat:
+Result:
 https://dzhuraev27.github.io/Gradient-Text/
